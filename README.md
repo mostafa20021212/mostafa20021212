@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Go & interested of Ai**
 
-- 💬 Ask me about **DS & Algorithms**
+- 💬 Ask me about **DS & Algorithms **
 
 - 📫 How to reach me **mostafa@bareedi.net**
 
